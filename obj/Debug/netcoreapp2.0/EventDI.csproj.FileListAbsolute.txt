@@ -1,0 +1,10 @@
+C:\Users\teichler\Desktop\EventDI\bin\Debug\netcoreapp2.0\EventDI.deps.json
+C:\Users\teichler\Desktop\EventDI\bin\Debug\netcoreapp2.0\EventDI.runtimeconfig.json
+C:\Users\teichler\Desktop\EventDI\bin\Debug\netcoreapp2.0\EventDI.runtimeconfig.dev.json
+C:\Users\teichler\Desktop\EventDI\bin\Debug\netcoreapp2.0\EventDI.dll
+C:\Users\teichler\Desktop\EventDI\bin\Debug\netcoreapp2.0\EventDI.pdb
+C:\Users\teichler\Desktop\EventDI\obj\Debug\netcoreapp2.0\EventDI.csproj.CoreCompileInputs.cache
+C:\Users\teichler\Desktop\EventDI\obj\Debug\netcoreapp2.0\EventDI.AssemblyInfoInputs.cache
+C:\Users\teichler\Desktop\EventDI\obj\Debug\netcoreapp2.0\EventDI.AssemblyInfo.cs
+C:\Users\teichler\Desktop\EventDI\obj\Debug\netcoreapp2.0\EventDI.dll
+C:\Users\teichler\Desktop\EventDI\obj\Debug\netcoreapp2.0\EventDI.pdb
